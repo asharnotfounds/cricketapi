@@ -1,0 +1,7 @@
+{
+    "links" : {
+        "all_fixtures" : "https://www.icc-cricket.com/all-fixtures",
+        "mens_results" : "https://www.icc-cricket.com/live-cricket/mens-results",
+        "womens_results" : "https://www.icc-cricket.com/live-cricket/womens-results"
+    }
+}
